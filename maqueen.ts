@@ -61,10 +61,10 @@ namespace maqueen {
     }
 
     export enum Dir {
-        //% blockId="CW" block="Forward"
-        CW = 0x0,
-        //% blockId="CCW" block="Backward"
-        CCW = 0x1
+        //% blockId="CCW" block="Forward"
+        CCW = 0x0,
+        //% blockId="CW" block="Backward"
+        CW = 0x1
     }
 
     export enum Patrol {
